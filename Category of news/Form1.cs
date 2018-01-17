@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Category_of_news.MyClasses;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,11 @@ namespace Category_of_news
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void btn_Find_Click(object sender, EventArgs e)
+        {
+            new toolFile().getBayMakale() ;
         }
     }
 }
