@@ -87,6 +87,7 @@ namespace Category_of_news.MyClasses
                 dosya.WriteLine("");
             }
             dosya.Close();
+            MessageBox.Show("Dosya masaüstüne yazıldı");
         }
 
 

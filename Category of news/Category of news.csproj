@@ -52,7 +52,9 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="MyClasses\main.cs" />
+    <Compile Include="MyClasses\Min_Max.cs" />
     <Compile Include="MyClasses\toolFile.cs" />
+    <Compile Include="MyClasses\toolText.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">

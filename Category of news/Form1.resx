@@ -117,4 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>F.Bahçe'ye sakatlık şoku! 3 ay
+Fenerbahçe'den Sparta Rotterdam'a kiralık olarak gitmesi konusunda anlaşmaya varılan ancak sarı-lacivertlilerin dün Ziraat Türkiye Kupası'nda oynadığı İstanbulspor karşılaşmasında sakatlanarak maçı yarıda bırakan Yiğithan Güveli, sosyal medya hesabı üzerinden bir açıklama yayınladı.
+Tedavisinin 3 aya yakın süreceğini aktaran Güveli, üzerindeFenerbahçe formasının bulunduğu bir fotoğrafı paylaşarak, "Dün akşam oynanan İstanbulspor mücadelesinde yaşadığım sakatlık sonrası, bugün yapılan kontrollerin ardından tedavimin 3 aya yakın süreceği tespit edilmiştir. Tek temennim bu süreci olabildiğince hızlı atlatarak sahalara daha güçlü dönmek olacaktır. İyi dilekleriniz için herkese çok teşekkür ederim" notunu düştü.</value>
+  </data>
 </root>

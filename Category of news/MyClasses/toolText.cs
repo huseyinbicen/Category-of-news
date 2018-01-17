@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Category_of_news.MyClasses
 {
-    class toolText
+    public class toolText
     {
         private static String Text = "";
         private int[] list;

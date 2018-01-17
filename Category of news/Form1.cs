@@ -20,7 +20,7 @@ namespace Category_of_news
 
         private void btn_Find_Click(object sender, EventArgs e)
         {
-            new toolFile().getBayMakale() ;
+           txt_Result.Text =  new main(richTextBox1.Text).getKategori();
         }
     }
 }
